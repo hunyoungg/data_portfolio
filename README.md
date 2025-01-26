@@ -21,7 +21,7 @@ My Tableau page: https://public.tableau.com/app/profile/han.yang.ng/vizzes
 
 **Goal:** To determine whether there is a preferred style of working for office workers and how efficient those styles can be. 
 
-**Code:** project_1 - remote work productivity.ipynb
+**Code:** [project_1 - remote work productivity.ipynb](https://github.com/hunyoungg/jupyter_notebook/blob/515f6b38accee18fde6a270af699544c73b08b9a/project_1%20-%20remote%20work%20productivity.ipynb)
 
 **Dashboard**: https://public.tableau.com/app/profile/han.yang.ng/viz/project_1remote_work_productivity/DASHBOARD
 
