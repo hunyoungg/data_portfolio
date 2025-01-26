@@ -5,6 +5,7 @@ This repository serves as a means to showcase my skills, track my progress, docu
 
 # Education
 Singapore Institue of Management, University at Buffalo: Bachelor of Arts, Major in Psychology
+
 Ngee Ann Polytechnic: Chemical & Biomolecular Engineering
 
 # Certificates
