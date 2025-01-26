@@ -15,7 +15,7 @@ Here are some projects which I have done. These projects focus on data cleaning 
 
 My Tableau page: https://public.tableau.com/app/profile/han.yang.ng/vizzes
 
-### Project 1: Remote Work Productivity
+### Project: Remote Work Productivity
 
 **Description:** This dataset contains synthetic data on productivity, working hours, and well-being indicators for remote and in-office workers. It aims to help analyze the impact of work environment on various productivity and well-being metrics.
 
