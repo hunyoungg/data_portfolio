@@ -28,6 +28,17 @@ My Tableau page: https://public.tableau.com/app/profile/han.yang.ng/vizzes
 **Comments:** 
 
 
+### Project: Student Mental Stress
+
+**Description:** This dataset contains data on how types of stressors can affect a student's mental health. 
+
+**Goal:** To gain a deeper understanding on the different stressors faced by students of different gender, year of study and main stress source.
+
+**Code:**
+
+**Dashboard:**
+
+
 ## Certificates
 
 
