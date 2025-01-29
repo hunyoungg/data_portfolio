@@ -11,7 +11,7 @@ Ngee Ann Polytechnic: Chemical & Biomolecular Engineering
 
 
 ## Projects
-Here are some projects which I have done. These projects focus on data cleaning via SQL, exploratory data analysis via Python in the form of Jupyter Notebooks and data visualisation with the help of Tableau. This repository will be used to display the code which I have written using Python and the dashboards can be found in my Tableau profile.
+Here are some personal projects which I have done. These projects focus on data cleaning via SQL, exploratory data analysis via Python in the form of Jupyter Notebooks and data visualisation with the help of Tableau. This repository will be used to display the code which I have written using Python and the dashboards can be found in my Tableau profile.
 
 My Tableau page: https://public.tableau.com/app/profile/han.yang.ng/vizzes
 
