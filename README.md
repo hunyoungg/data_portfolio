@@ -41,6 +41,9 @@ My Tableau page: https://public.tableau.com/app/profile/han.yang.ng/vizzes
 
 ## Certificates
 
+[Data Analytics with SQL and Tableau](https://cert.heicodersacademy.com/ZHYW8WFWRP) (July 2024, Heicoders Academy)   
+[Python Programming and Data Visualisation](https://cert.heicodersacademy.com/1WSZZZKRJT) (Sep 2024, Heicoders Academy)
+
 
 ## Contacts
 **Email:** nghanyang97@gmail.com
