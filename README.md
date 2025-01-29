@@ -36,7 +36,7 @@ My Tableau page: https://public.tableau.com/app/profile/han.yang.ng/vizzes
 
 **Code:**
 
-**Dashboard:**
+**Dashboard:** https://public.tableau.com/app/profile/han.yang.ng/viz/project_4-student_mental_stress_sms/Dashboard
 
 
 ## Certificates
