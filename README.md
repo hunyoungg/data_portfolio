@@ -32,7 +32,7 @@ My Tableau page: https://public.tableau.com/app/profile/han.yang.ng/vizzes
 
 **Description:** This dataset contains data on how types of stressors can affect a student's mental health. 
 
-**Goal:** To gain a deeper understanding on the different stressors faced by students of different gender, year of study and main stress source.
+**Goal:** To gain a deeper understanding on the different stressors faced by students of different genders, year of study and stressors.
 
 **Code:**
 
