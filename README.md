@@ -21,7 +21,7 @@ My Tableau page: [Tableau](https://public.tableau.com/app/profile/han.yang.ng/vi
 
 **Goal:** To determine whether there is a preferred style of working for office workers and how efficient those styles can be. 
 
-**EDA:** [project_1 - remote work productivity.ipynb](https://github.com/hunyoungg/jupyter_notebook/blob/515f6b38accee18fde6a270af699544c73b08b9a/project_1%20-%20remote%20work%20productivity.ipynb)
+**EDA:** [project_1 - remote work productivity](https://github.com/hunyoungg/jupyter_notebook/blob/515f6b38accee18fde6a270af699544c73b08b9a/project_1%20-%20remote%20work%20productivity.ipynb)
 
 **Dashboard**: https://public.tableau.com/app/profile/han.yang.ng/viz/project_1remote_work_productivity/DASHBOARD
 
@@ -32,14 +32,14 @@ My Tableau page: [Tableau](https://public.tableau.com/app/profile/han.yang.ng/vi
 
 **Goal:** To gain a deeper understanding on the different stressors faced by students of different genders, year of study and stressors.
 
-**EDA:**
+**EDA:** [project_4 - student mental stress](https://github.com/hunyoungg/jupyter_notebook/blob/675d6025dfca9e1c14c5d278593ed82367e2699e/project_4%20-%20student_mental_stress_dataset.ipynb)
 
 **Dashboard:** https://public.tableau.com/app/profile/han.yang.ng/viz/project_4-student_mental_stress_sms/Dashboard
 
 
 ### Project: HR analytics
 
-**Description:**
+**Description:** A simple HR dataset which consists of information on their staff. 
 
 **Goal:** To calculate attrition rate and determine the possible causes. 
 
